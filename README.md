@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# ShareStuff
+[Wiki](https://github.com/iShareStuff/ShareStuff/wiki) | [知乎](https://www.zhihu.com/people/ShareStuff) | [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTQ1NjcxMQ==#wechat_redirect) | [Github](https://github.com/iShareStuff) | [B站](https://space.bilibili.com/20435673) | [思维导图【粉丝必看】](https://isharestuff.github.io/ShareStuff/Maps.html)
 
-You can use the [editor on GitHub](https://github.com/iShareStuff/ShareStuff/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+<a id="markdown-sharestuff" name="sharestuff"></a>
+  * 光阴似箭
 
-### Markdown
+  * 日月如梭
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  * 终于等到你
 
-```markdown
-Syntax highlighted code block
+  * 还好没放弃
+---
+* ShareStuff 分享有你有我有他，活到老学到老，是大家的知识宝库。
 
-# Header 1
-## Header 2
-### Header 3
+*  创立的初衷是方便大家学习 😄，前人栽树后人乘凉。
+  
+---
+## 下载
+ ![全平台](https://user-images.githubusercontent.com/61663626/163555125-986cc4ec-ac85-4811-a3d6-05cc47096807.jpg)
 
-- Bulleted
-- List
+---
+## 建议
+* 欢迎您有问题上QQ频道提问，QQ频道如何加入看[B站动态](https://space.bilibili.com/20435673/dynamic)【实时更新】。
 
-1. Numbered
-2. List
+* 欢迎一起交流，学习，分享好文推荐，贡献您的力量。
 
-**Bold** and _Italic_ and `Code` text
+---
+# License
 
-[Link](url) and ![Image](src)
-```
+* 本模板发布遵循公共许可证 1.3 c 或更高版本。如果是衍生作品，请务必加入协议声明。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iShareStuff/ShareStuff/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
