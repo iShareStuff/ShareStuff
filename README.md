@@ -1,5 +1,5 @@
 # ShareStuff
-[Wiki](https://github.com/iShareStuff/ShareStuff/wiki) | [知乎](https://www.zhihu.com/people/ShareStuff) | [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTQ1NjcxMQ==#wechat_redirect) | [Github](https://github.com/iShareStuff) | [B站](https://space.bilibili.com/20435673) 
+[Wiki](https://github.com/iShareStuff/ShareStuff/wiki) | [知乎](https://www.zhihu.com/people/ShareStuff) | [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTQ1NjcxMQ==#wechat_redirect) | [Github](https://github.com/iShareStuff) | [B站](https://space.bilibili.com/20435673) | [思维导图【粉丝必看】](https://isharestuff.github.io/ShareStuff/Maps.html)
 
 
 ---
