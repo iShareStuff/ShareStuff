@@ -7,7 +7,7 @@
  * @LastEditTime: 2022-04-29 22:25:03
 -->
 # ShareStuff
- [Github](https://github.com/iShareStuff) | [知乎](https://www.zhihu.com/people/ShareStuff) | [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTQ1NjcxMQ==#wechat_redirect) | [B站](https://space.bilibili.com/20435673) | [学习思维导图【粉丝必看】](https://isharestuff.github.io/ShareStuff/Maps.html)
+   [Gitee](https://gitee.com/iShareStuff) | [Github](https://github.com/iShareStuff) | [知乎](https://www.zhihu.com/people/ShareStuff) | [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTQ1NjcxMQ==#wechat_redirect) | [B站](https://space.bilibili.com/20435673) | [学习思维导图【粉丝必看】](https://isharestuff.github.io/ShareStuff/Maps.html)
 
 
 ---
