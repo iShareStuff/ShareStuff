@@ -4,13 +4,14 @@
  * @Author: ShareStuff
  * @Date: 2022-04-29 11:44:27
  * @LastEditors: isharestuff
- * @LastEditTime: 2022-05-03 13:42:24
+ * @LastEditTime: 2023-01-02 21:06:28
 -->
 
 # ShareStuff
 ## Guide
-* [学习思维导图【粉丝必看】](https://isharestuff.github.io/ShareStuff/Maps.html)
 * [学习资料下载【粉丝必看】](https://docs.qq.com/doc/DT0FYcFZ6VmluSE5x)
+* [Github学习思维导图【粉丝必看】](https://isharestuff.github.io/ShareStuff/Maps.html)
+* [Gitee学习思维导图【粉丝必看】](https://isharestuff.gitee.io/ShareStuff/Maps.html)
 
 ## Maps
 
@@ -74,6 +75,49 @@
       * [Zotero和Obsidian双向联动实时更新方法，利用bibnotes和zotero-obsidian-citations实现【上篇】](https://www.bilibili.com/video/BV1R44y137ci/)
       * [Zotero和Obsidian双向联动实时更新方法，利用bibnotes和zotero-obsidian-citations实现【下篇】](https://www.bilibili.com/video/BV1k34y1v7fY/)
       * [Zotero修改版Mdnotes插件，Obsidian修改版BookNote插件联用](https://www.bilibili.com/video/BV1CZ4y1U7s7/)
+      * [嚯，好家伙！Zotero做笔记用knowledge-for-zotero。Zotero整理笔记还能实时更新大纲、思维导图和关系图谱](https://www.bilibili.com/video/BV1kr4y1872X/)
+      * [knowledge-for-zotero插件测试版，快来试试看](https://www.bilibili.com/video/BV1XZ4y1h7fp/)
+      * [解决痛点，Zotero插件knowledge-for-zotero可导出带图片的markdown格式啦](https://www.bilibili.com/video/BV1XU4y127zK/)
+      * [Zotero最强插件zotero-better-notes更新啦，原 knowledge-for-zotero](https://www.bilibili.com/video/BV19Y411c7G4/)
+      * [Zotero插件的国内下载镜像，上不了GitHub的来这](https://www.bilibili.com/video/BV1ct4y1x7d5/)
+      * [Zotero内置PDF视图页面跳转，大大地方便阅读，还有鼠标宏哦](https://www.bilibili.com/video/BV1XT4y1B7aQ/)
+      * [整挺好，Zotero自动添加组名标签的插件zotero-add-collection-tag](https://www.bilibili.com/video/BV1RZ4y187He/)
+      * [好消息，Zotero的zotero-pdf-translate插件支持摘要翻译啦](https://www.bilibili.com/video/BV1VY4y1B7vF/)
+      * [Zotero的zotero-better-notes支持自定义笔记模板，欢迎大家分享好用的模板](https://www.bilibili.com/video/BV13a411E7th/)
+      * [Zotero笔记支持LaTeX啦，还不来使用zotero-better-notes插件？](https://www.bilibili.com/video/BV1uv4y1w76a/)
+      * [起飞，Zotero主题插件支持PDF界面自定义颜色啦，护眼模式走起](https://www.bilibili.com/video/BV1bY411g7S4/)
+      * [zotero-better-notes笔记插件LaTeX多行公式这样输入，学会了吗？](https://www.bilibili.com/video/BV1MF411V7rL/)
+      * [zotero-better-notes解决图片显示和导出问题，美滋滋](https://www.bilibili.com/video/BV1Gr4y1V7AY/)
+      * [新手如何安装zotero和使用开箱即用，附加更新的影响因子csv教程](https://www.bilibili.com/video/BV1aU4y1Q7K8/)
+      * [Zotero中的zotero-obsidian-citations插件改名字了，MarkDB-Connect](https://www.bilibili.com/video/BV1kS4y1n7Tv/)
+      * [zotero-better-notes支持导出pdf啦，同时也能同步导出markdown啦](https://www.bilibili.com/video/BV1BU4y1S72X/)
+      * [棒！Zotero新插件Zotero PDF Preview支持pdf预览，一定程度替代QuickLook](https://www.bilibili.com/video/BV1394y1Q7jF/)
+      * [Zotero RSS如果无法订阅，可能是这个原因。](https://www.bilibili.com/video/BV1DF411K7o6/)
+      * [Zotero多设备多OS同步所有数据和配置，你可以试试哈！账号都不需要！如Win和Linux](https://www.bilibili.com/video/BV1me4y1Q7ju/)
+      * [Zotero7来了，以前的插件应该都要重新写了！](https://www.bilibili.com/video/BV1zV4y1T7PU/)
+      * [Mac系统下的Zotero备份和恢复！这下All OS我都有了！](https://www.bilibili.com/video/BV1nV4y1L7p1/)
+      * [Zotero主题插件恢复默认【原始模样】的方法来啦！](https://www.bilibili.com/video/BV17V4y157dC/)
+      * [最美的Zotero插件，Chartero可视化你的阅读数据](https://www.bilibili.com/video/BV1XK411Q7Mp/)
+      * [Zotero插件Chartero更新啦，支持更多功能哦！](https://www.bilibili.com/video/BV1AW4y1E7NB/)
+      * [更新，Zotero的Notion插件Notero新的配置教程！有声版！](https://www.bilibili.com/video/BV1Se4y1e7RR/)
+      * [不能用？Zotero翻译插件PDF Translate使用方法大全：划词翻译与标题、摘要、批注翻译](https://www.bilibili.com/video/BV1pd4y1r7Yu/)
+      * [不会用？Zotero Better Notes：基于知识的笔记插件教程大全](https://www.bilibili.com/video/BV1Q84y1v7yU/)
+      * [【适配Zotero翻译插件】谷歌翻译一键加速？GitHub加速？只需双击即可！](https://www.bilibili.com/video/BV1ZG4y1Z7Sp/)
+      * [Zotero和Obsidian联用新插件，设置操作最简单：Obsidian Zotero，再也不担心看不懂了！Zotero数据路径【首选项 高级 文件夹 路径】](https://www.bilibili.com/video/BV16G4y1Z7J3/)
+      * [棒！Zotero Better Notes思维导图可以导出啦【可结合freeplane和Xmind等软件】，图片笔记还能高级预览！](https://www.bilibili.com/video/BV1o3411Z727/)
+      * [爆！首个Zotero插件开发教程，包括电脑环境搭建！很详细，还有win虚拟机分享，直接开始开发！](https://www.bilibili.com/video/BV1hP411u7QS/)
+      * [还是有小伙伴不会用Obsidian Zotero新插件，那就再来一遍！](https://www.bilibili.com/video/BV1FM41167La/)
+      * [香，几十款浏览器插件你值得拥有！](https://www.bilibili.com/video/BV1U14y1n7MX/)
+      * [真正的双向同步！ZoteroBetterNotes插件支持和obsidian双向同步啦！](https://www.bilibili.com/video/BV1jP411M735/)
+      * [Docear，一款集思维导图和文献管理于一身的开源软件，支持LaTeX和PDF注释等！](https://www.bilibili.com/video/BV1xv4y1o7XX/)
+      * [没备份Zotero，还不小心删除了chartero等数据文件，想恢复到曾经的状态你或许可以这样](https://www.bilibili.com/video/BV1r8411G7ot/)
+      * [Zotero如何利用scite查看文献的支持率等信息，了解文献被引用了多少次、有多少学者赞成他的研究，有多少学者反对他的研究，以及为什么会赞成和反对理由等等](https://www.bilibili.com/video/BV1o44y1S7DD/)
+      * [2023年了，还不会这样批量安装电脑软件、高清截图？另有装机必备维护工具箱分享！还不快来！](https://www.bilibili.com/video/BV1424y1Q7Le/)
+      * [新插件哟！蒲公英tara！Zotero备份和恢复的两种新方法！还支持多端同步哦！](https://www.bilibili.com/video/BV1A14y1N7fV/)
+      * [香，Zotero中条目的参考文献抓取和关联插件！Zotero Reference](https://www.bilibili.com/video/BV1sV4y1A7iT/)
+      * [Zotero7插件开发模板！兼容Zotero6！](https://www.bilibili.com/video/BV1nW4y1T72x/)
+      * [MarginNote PPT？Obsidian白板功能配合Zotero！](https://www.bilibili.com/video/BV13D4y1772b/)
+      * [Zotero无限画布插件zotdraw！](https://www.bilibili.com/video/BV1je4y1T7J1/)
     *  拓展
        *  [最新开发阅读神器 readpaper](https://mp.weixin.qq.com/s/RXWDL7SfsdADsS8D7f6l7w)
        *  [pdf 转 html 的文献翻译，支持任意两种语言间](https://mp.weixin.qq.com/s/9hBJAklOlXLlZ7I8POutWQ)
@@ -82,6 +126,7 @@
   * [Obsidian](https://www.bilibili.com/medialist/play/20435673?from=space&business=space_series&business_id=2221060&desc=1&spm_id_from=333.999.0.0)
     * 介绍
       * [分享我用的Obsidian主题](https://www.bilibili.com/video/BV1VS4y1e7JR/)
+      * [大家都喜欢的ob主题Blue-topaz-examples](https://www.bilibili.com/video/BV1te4y1R7sF/)
     * 入门
 
     * 进阶
@@ -101,6 +146,10 @@
     * [Windows上搜索文件路径并复制，好用的everything软件](https://www.bilibili.com/video/BV1xZ4y1m7aN/)
   * 查词翻译
     * [沙拉查词+ Quicker](https://mp.weixin.qq.com/s/qOHQToAgXmN88vLrRSp5KQ)
+  * eDiary
+    * [我的白日梦，笔记软件eDiary分享](https://www.bilibili.com/video/BV1yF41177iz/)
+  * PDF
+    * [PDF补丁丁-你值得拥有的PDF工具箱](https://www.bilibili.com/video/BV1LF411L7Qb/)
   * LaTeX
     * [TeXLive+TexStudio+VsCode环境搭建](https://mp.weixin.qq.com/s/YJVcZuDopUAnTdMs-u6Rtg)
     * [使用Pandoc LaTeX 转 Word](https://mp.weixin.qq.com/s/fv9S1tiDlSiogcWYUVVniw)
@@ -115,6 +164,8 @@
     * [浏览器显示分区的插件easyScholar](https://www.bilibili.com/video/BV1HY4y1a7S4/)
     * [书签同步EverSync](https://mp.weixin.qq.com/s/78ASpnOWkaBfvPRXIF41uQ)
     * [书签同步floccus](https://mp.weixin.qq.com/s/EAxlABMvVufgfUnM2JdICQ)
+    * [浏览器的油候插件，不仅仅用来下载知网PDF哟，附带GitHub上的CAJ转PDF脚本](https://www.bilibili.com/video/BV1Zv4y1K7Z5/)
+    * [Scihub浏览器插件，蛮香！](https://www.bilibili.com/video/BV1XP41137JX/)
   * 下载器
     * [百度云Aria2下载](https://mp.weixin.qq.com/s/UTnb-4sLcs2rcIuDI3Xueg)
     * [便携版软件下载平台PortableApps](https://www.bilibili.com/video/BV1u3411M76x/)
@@ -170,9 +221,6 @@
 * [知乎](https://www.zhihu.com/people/ShareStuff) 
 * [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTQ1NjcxMQ==#wechat_redirect) 
 * [Github](https://github.com/iShareStuff) 
+* [Gitee](https://gitee.com/isharestuff)
 * [B站](https://space.bilibili.com/20435673) 
-* QQ频道
-  * [提问发帖](https://www.bilibili.com/video/BV1HL4y1V7QJ/)
-  * [加入方式1](https://space.bilibili.com/20435673/dynamic)
-  * [加入方式2](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=APuiD&appChannel=share&contentID=NvKk&businessType=2&from=181074&biz=ka&shareSource=5)
 * [Email](mailto:stuffshare@163.com)
