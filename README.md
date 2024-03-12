@@ -30,12 +30,7 @@
 
 ---
 ## 建议
-* 欢迎您有问题上QQ频道提问，QQ频道如何加入看下图。
-
-
-![image](https://user-images.githubusercontent.com/61663626/210223666-f0879d5f-fcd9-4fd3-92bb-1a11e78595a6.png)
-
-
+* 欢迎您有问题上添加客服微信：isharestuff。
 * 欢迎一起交流，学习，分享好文推荐，贡献您的力量。
 
 ---
